@@ -1,2 +1,2 @@
-# ILS-Website
-Company website for intelligent learning solutions 
+# RTech-Website
+Company website for ReLearn Technologies 
