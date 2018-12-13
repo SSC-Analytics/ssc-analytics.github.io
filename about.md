@@ -1,8 +1,12 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Updates
+permalink: /updates/
 ---
+
+Here are the most recent updates about SSC and what we've been doing:
+
+<!-- TODO: Inject posts from _post here. -->
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
