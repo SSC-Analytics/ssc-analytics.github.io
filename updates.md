@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Updates
-permalink: /updates/
+permalink: updates/
 ---
 
 Here are the most recent updates about SSC and what we've been doing:
