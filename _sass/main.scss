@@ -4,12 +4,6 @@
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 
-/*
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 	@import 'libs/skel';
 
 	@include skel-breakpoints((
@@ -485,15 +479,15 @@
 		}
 
 		&.style1 {
-			color: _palette(accent2, bg);
+			color: _palette(bg);
 		}
 
 		&.style2 {
-			color: _palette(accent3, bg);
+			color: _palette(bg);
 		}
 
 		&.style3 {
-			color: _palette(accent4, bg);
+			color: _palette(bg);
 		}
 	}
 
@@ -904,7 +898,7 @@
 
 			&:before {
 				display: block;
-				color: _palette(accent2, bg);
+				color: _palette(accent4, fg);
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -1242,7 +1236,7 @@
 		}
 
 		&.style3 {
-			@include wrapper(accent5);
+			@include wrapper(accent4);
 		}
 
 		&.style4 {
@@ -1483,6 +1477,15 @@
 		position: relative;
 		text-align: center;
 
+		img {
+			display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+			margin-top: -11%;
+			margin-bottom: 1%;
+		  width: 256px;
+		}
+
 		h2 {
 			@include vendor('transform', 'scale(1)');
 			@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
@@ -1669,7 +1672,7 @@
 	#main {
 		> header {
 			@include padding(12em, 0);
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../assets/images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/Background.png")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1794,7 +1797,7 @@
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../assets/images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/Background.png")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1815,10 +1818,10 @@
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../assets/images/banner.jpg")'));
+				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/Background.png")'));
 				background-position: center center;
 				background-repeat: no-repeat;
-				background-size: cover;
+				background-size: auto;
 			}
 
 			#footer {

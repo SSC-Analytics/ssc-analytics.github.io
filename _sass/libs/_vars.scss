@@ -30,6 +30,12 @@
 	);
 
 // Palette.
+
+// Dark grey: #2e3842
+// Turqoise: #59b9b8
+//Orange: #ed4933
+
+
 	$palette: (
 		bg:					#2e3842,
 		fg:					#fff,
@@ -41,10 +47,10 @@
 		border2-bg:			rgba(144,144,144,0.5),
 
 		accent1: (
-			bg:				#21b2a6,
-			fg-bold:		#ffffff,
-			fg:				mix(#21b2a6, #ffffff, 25%),
-			fg-light:		mix(#21b2a6, #ffffff, 40%),
+			bg:				#59b9b8,
+			fg-bold:		#2e3842,
+			fg:				mix(#2e3842, #ffffff, 95%),
+			fg-light:		mix(#2e3842, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -52,10 +58,10 @@
 		),
 
 		accent2: (
-			bg:				#00ffcc,
+			bg:				#FFB77B,
 			fg-bold:		#ffffff,
-			fg:				mix(#00ffcc, #ffffff, 25%),
-			fg-light:		mix(#00ffcc, #ffffff, 40%),
+			fg:				mix(#FFB77B, #ffffff, 25%),
+			fg-light:		mix(#FFB77B, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -74,7 +80,7 @@
 		),
 
 		accent4: (
-			bg:				#76ddff,
+			bg:				#0c243c,
 			fg-bold:		#ffffff,
 			fg:				mix(#76ddff, #ffffff, 25%),
 			fg-light:		mix(#76ddff, #ffffff, 40%),
