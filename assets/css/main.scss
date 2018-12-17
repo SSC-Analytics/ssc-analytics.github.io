@@ -494,6 +494,45 @@
 		}
 	}
 
+	.fas {
+		border-bottom: none;
+		position: relative;
+
+		&.framed {
+			@include vendor('transform', 'rotate(-45deg)');
+			border-radius: 3px;
+			border: solid 2px _palette(accent1(fg));
+			display: inline-block;
+			font-size: 1.35em;
+			height: calc(3em + 2px);
+			line-height: 3em;
+			text-align: center;
+			width: calc(3em + 2px);
+
+			&:before {
+				@include vendor('transform', 'rotate(45deg)');
+				display: inline-block;
+				font-size: 1.5em;
+			}
+
+			@include breakpoint(small) {
+				font-size: 1em;
+			}
+		}
+
+		&.style1 {
+			color: _palette(bg);
+		}
+
+		&.style2 {
+			color: _palette(bg);
+		}
+
+		&.style3 {
+			color: _palette(bg);
+		}
+	}
+
 /* Image */
 
 	.image {
@@ -1631,7 +1670,7 @@
 
 			header {
 				@include vendor('order', '1');
-				padding-right: 3em;
+				padding-right: 5em;
 				width: 70%;
 
 				p {
@@ -1647,6 +1686,7 @@
 			@include breakpoint(medium) {
 				display: block;
 				text-align: center;
+
 
 				header {
 					padding-right: 0;

@@ -31,13 +31,13 @@
 
 // Palette.
 
-// Dark grey: #2e3842
+// Dark grey: #1A242E
 // Turqoise: #59b9b8
 //Orange: #ed4933
 
 
 	$palette: (
-		bg:					#2e3842,
+		bg:					#1A242E,
 		fg:					#fff,
 		fg-bold:			#fff,
 		fg-light:			rgba(255,255,255,0.5),
@@ -48,9 +48,9 @@
 
 		accent1: (
 			bg:				#59b9b8,
-			fg-bold:		#2e3842,
-			fg:				mix(#2e3842, #ffffff, 95%),
-			fg-light:		mix(#2e3842, #ffffff, 40%),
+			fg-bold:		#1A242E,
+			fg:				mix(#1A242E, #ffffff, 95%),
+			fg-light:		mix(#1A242E, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -114,7 +114,7 @@
 
 		accent7: (
 			bg:				#ffffff,
-			fg-bold:		#2E3842,
+			fg-bold:		#1A242E,
 			fg:				#4E4852,
 			fg-light:		#8E8892,
 			border:			#dfdfdf,
