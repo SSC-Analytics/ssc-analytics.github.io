@@ -2,18 +2,19 @@
 # Site settings
 # These are essentially global variables that can be accessed by {{site.title}},
 # for example.
+root: home/
 title: SSC Analytics
 email: jonas.scholz123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A data analytics company that provides reccomendations and assistance to
   schools to optimise the performance of each individua student.
-baseurl: /home/ # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: "https://tiger-cross.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_url:  https://github.com/SSC-Analytics
 
 # Build settings
 markdown: kramdown
-#theme: spectral_jekyll_theme
+theme: spectral_jekyll_theme
 plugins:
   - jekyll-feed
 sass:
