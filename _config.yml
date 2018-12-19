@@ -3,13 +3,21 @@
 # These are essentially global variables that can be accessed by {{site.title}},
 # for example.
 title: SSC Analytics
-email: jonas.scholz123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A data analytics company that provides reccomendations and assistance to
   schools to optimise the performance of each individua student.
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://tiger-cross.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_url:  https://github.com/SSC-Analytics
+
+# Contact Details
+andreas_email: amswerdlow@yahoo.com
+jonas_email: jonas.scholz123@gmail.com
+tiger_email: tiger.cross17@gmail.com
+
+andreas_phone: +44 (0) 7588 406 144
+jonas_phone: +49 176 477 21 857
+tiger_phone: +44 (0) 7761 076 437
 
 # Build settings
 markdown: kramdown
