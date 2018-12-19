@@ -10,12 +10,12 @@ permalink: contact/
 
 ## Via email
 
-Andreas Swerdlow:     {{ site.andreas_email }}
-Jonas Scholz:    {{ site.jonas_email }}
-Tiger Cross:		{{ site.tiger_email }}
+Andreas Swerdlow:     amswerdlow@yahoo.com   
+Jonas Scholz:     jonas.scholz123@gmail.com  
+Tiger Cross:     tiger.cross17@gmail.com
 
 ## or give one of us a call
 
-Andreas Swerdlow:     {{ site.andreas_phone }}
-Jonas Scholz:     {{ site.andreas_phone }}
-Tiger Cross:     {{ site.andreas_phone }}
+Andreas Swerdlow:    +44 (0) 7588 406 144
+Jonas Scholz:     +49 176 477 21 857
+Tiger Cross:     +44 (0) 7761 076 437
