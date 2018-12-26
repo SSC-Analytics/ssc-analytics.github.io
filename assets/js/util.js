@@ -433,7 +433,14 @@
 		// Events.
 			$this
 				.on('submit', function() {
-
+					$.ajax({
+					    type: "POST",
+					    url: "https://sscanalytics.dev.with-datafire.io/contact",
+					    data: $this.serialize(),
+					    success: function() {
+					      //something to let the user know it was submitted
+							    }
+							  });
 					$this.find('input[type=text],input[type=password],textarea')
 						.each(function(event) {
 
