@@ -1,4 +1,5 @@
 ---
+image: Background.png
 layout: contact
 title: Contact
 permalink: contact/
