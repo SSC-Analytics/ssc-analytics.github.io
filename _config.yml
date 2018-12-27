@@ -3,16 +3,11 @@
 # These are essentially global variables that can be accessed by {{site.title}},
 # for example.
 title: SSC Analytics
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   A data analytics company that provides reccomendations and assistance to
   schools to optimise the performance of each individua student.
-<<<<<<< HEAD
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://tiger-cross.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-=======
-baseurl:  # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> master
 github_url:  https://github.com/SSC-Analytics
 featured-image-source: /assets/images/
 
