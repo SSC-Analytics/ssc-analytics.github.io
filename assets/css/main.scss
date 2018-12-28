@@ -430,7 +430,8 @@
 	}
 
 #confirmation-title{
-	color: _palette(bg)
+	color: _palette(bg);
+	text-align: center;
 }
 /* Box */
 
@@ -1171,9 +1172,10 @@
 
 			#tick{
 					    width: 50%;
-					    max-width: 250px;
+					    max-width: 150px;
 							display: block;
 					    margin: auto;
+							margin-top: 2em;
 					}
 					.circ{
 					    opacity: 0;
