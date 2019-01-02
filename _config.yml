@@ -5,10 +5,11 @@
 title: SSC Analytics
 description: > # this means to ignore newlines until "baseurl:"
   A data analytics company that provides reccomendations and assistance to
-  schools to optimise the performance of each individua student.
+  schools to optimise the performance of each individual student.
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://tiger-cross.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_url:  https://github.com/SSC-Analytics
+future: true
 featured-image-source: /assets/images/
 
 # Contact Details
