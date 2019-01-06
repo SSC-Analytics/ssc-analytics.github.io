@@ -429,10 +429,6 @@
 		opacity: 1.0;
 	}
 
-#confirmation-title{
-	color: _palette(bg);
-	text-align: center;
-}
 /* Box */
 
 	.box {
@@ -992,6 +988,12 @@
 			}
 		}
 	}
+
+/* Contact Form */
+#confirmation-title{
+	color: _palette(fg);
+	text-align: center;
+}
 
 /* Spotlight */
 
