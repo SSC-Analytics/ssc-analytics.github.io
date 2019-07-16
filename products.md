@@ -2,6 +2,7 @@
 layout: page
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: What We Do
 permalink: products/
 ---
@@ -29,6 +30,8 @@ From this so-called doppelgänger search, you can see how similar students have 
 =======
 =======
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
+=======
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 title: Products and Services
 permalink: products/
 ---
@@ -41,6 +44,9 @@ We are developing a platform that takes in and analyses all the data for your in
 
 Soon, we will have created software that generates up to three optimal timetables for the institution given various constraints such as class sizes, subjects available, teacher avaiability etc.  
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
+=======
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 =======
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
