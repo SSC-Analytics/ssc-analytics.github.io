@@ -429,9 +429,6 @@
 		opacity: 1.0;
 	}
 
-#confirmation-title{
-	color: _palette(bg)
-}
 /* Box */
 
 	.box {
@@ -650,6 +647,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+            align-self: center;
 
 			li {
 				display: inline-block;
@@ -992,6 +990,12 @@
 		}
 	}
 
+/* Contact Form */
+#confirmation-title{
+	color: _palette(fg);
+	text-align: center;
+}
+
 /* Spotlight */
 
 	.spotlight {
@@ -1171,9 +1175,10 @@
 
 			#tick{
 					    width: 50%;
-					    max-width: 250px;
+					    max-width: 150px;
 							display: block;
 					    margin: auto;
+							margin-top: 2em;
 					}
 					.circ{
 					    opacity: 0;
@@ -1300,7 +1305,7 @@
 		}
 
 		&.alt {
-			padding: 0;
+			padding: 5pt;
 		}
 
 		&.style1 {
@@ -1745,17 +1750,18 @@
 	}
 
 /* Main */
-
 	#main {
 		> header {
-			@include padding(12em, 0);
+			@include padding(6em, 0);
 			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/Background.png")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			text-align: center;
-
+            img {
+                width: 10%;
+            }
 			h2 {
 				font-size: 1.75em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;

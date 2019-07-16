@@ -5,20 +5,26 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-
 {% include head.html %}
 
 <body>
-
     {% include header.html %}
 
     <!-- Main -->
     <article id="main">
         <header{% if page.image %} style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}');"{% endif %}>
+
+	        <img class="title-image medium" src = "../assets/images/logo.png">
             <h2>{{ page.title }}</h2>
-            <p>{{ page.description }}</p>
         </header>
-        <section class="wrapper style5">
+
+        <section class="wrapper style1 alt">
+        </section>
+            <!--<div class="inner">
+            <p>{{ page.description }}</p>
+            </div> -->
+
+        <section class="wrapper style3">
             <div class="inner">
 
                 {{ content }}
@@ -26,7 +32,6 @@
             </div>
         </section>
     </article>
-
     {% include footer.html %}
 
 </body>
