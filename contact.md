@@ -10,6 +10,17 @@ permalink: contact/
 We'd love to hear from you! Please get in touch:
 
 #### Give us a call
-<pre>Andreas Swerdlow:   +44 (0) 7588 406 144
-Jonas Scholz:         +49 176 477 21 857
-Tiger Cross:        +44 (0) 7761 076 437</pre>
+
+<table> <tr>
+    <td class="tg-baqh">Andreas Swerdlow</td>
+    <td class="tg-baqh">+44 (0) 7588 406 144</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Jonas Scholz</td>
+    <td class="tg-baqh">+44 (0) 7378 338 235</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Tiger Cross</td>
+    <td class="tg-baqh">+44 (0) 7761 076 437</td>
+  </tr>
+  </table>
