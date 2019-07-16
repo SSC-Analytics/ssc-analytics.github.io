@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 layout: page
 title: Guaranteed Results
 permalink: guaranteed-results
@@ -10,6 +11,8 @@ We are convinved that we can keep our promise. That by using our tools, teachers
 
 <center> <h4> What are you waiting for? </h4></center>
 =======
+=======
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 layout: post
 title: Guaranteed Results
 permalink: guaranteed-results
@@ -18,4 +21,7 @@ permalink: guaranteed-results
 # TODO: Add content, either using posts or markdown
 
 currently empty
+<<<<<<< HEAD
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
+=======
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85

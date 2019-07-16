@@ -1,6 +1,7 @@
 ---
 layout: page
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: What We Do
 permalink: products/
 ---
@@ -26,6 +27,8 @@ For every student, our system can find a student in our database who is the most
 
 From this so-called doppelgänger search, you can see how similar students have developed in the past - what subjects they chose for A-levels, whether they excelled and [much more](#).
 =======
+=======
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 title: Products and Services
 permalink: products/
 ---
@@ -37,4 +40,7 @@ We are developing a platform that takes in and analyses all the data for your in
 ### Optimal Timetabler (TBA):
 
 Soon, we will have created software that generates up to three optimal timetables for the institution given various constraints such as class sizes, subjects available, teacher avaiability etc.  
+<<<<<<< HEAD
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
+=======
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85

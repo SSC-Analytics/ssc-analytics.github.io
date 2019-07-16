@@ -1,9 +1,14 @@
 ---
 layout: page
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- image: mini_logo.png -->
 title: Data Protection
 permalink: data-protection/
+=======
+title: Anonymity
+permalink: anonymity
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 =======
 title: Anonymity
 permalink: anonymity
@@ -13,7 +18,11 @@ permalink: anonymity
 # TODO: Add content, either using posts or markdown
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- We are not just promising complete student anonymity; we guarantee it using our 3-step process of data submission:
+=======
+We are not just promising complete student anonymity; we guarantee it using our 3-step process of data submission:
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 =======
 We are not just promising complete student anonymity; we guarantee it using our 3-step process of data submission:
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
@@ -29,6 +38,7 @@ You send us the CSV, confident about what information it contains.
 The sensitive student information never leaves your school's system.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Once we have completed our analysis, our tool converts the student ID assigned in Step 1 back to the student name, so you can use what we found out. -->
 
 ## Data Processing Agreement
@@ -41,6 +51,9 @@ A number of our clients chooses to de-identify their student data before we anal
 If you would like to de-identify your data, or have one of our employees come in to de-identify the data for you, feel free to [contact us](../contact/).
 
 
+=======
+Once we have completed our analysis, our tool converts the student ID assigned in Step 1 back to the student name, so you can use what we found out.
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
 =======
 Once we have completed our analysis, our tool converts the student ID assigned in Step 1 back to the student name, so you can use what we found out.
 >>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
