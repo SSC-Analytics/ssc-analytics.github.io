@@ -2,4 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 *~
+<<<<<<< HEAD
 *swp
+=======
+>>>>>>> a4d456378c7572eb347a95e553419c3b61fb6f85
