@@ -1,6 +1,5 @@
 ---
 layout: page
-<!-- image: mini_logo.png -->
 title: Data Protection
 permalink: data-protection/
 ---

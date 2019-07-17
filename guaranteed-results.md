@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guaranteed Results
-permalink: guaranteed-results
+permalink: /guaranteed-results/
 ---
 
 ### Free Access for a year
