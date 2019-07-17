@@ -5,8 +5,6 @@ title: Data Protection
 permalink: data-protection/
 ---
 
-# TODO: Add content, either using posts or markdown
-
 <!-- We are not just promising complete student anonymity; we guarantee it using our 3-step process of data submission:
 
 ## Step 1 ##

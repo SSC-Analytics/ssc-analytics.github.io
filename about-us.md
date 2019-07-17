@@ -13,7 +13,7 @@ SSC Analytics was founded by the three Imperial College London students Jonas Sc
 
 ## The Plan
 
-In the last 10 years most highly developed industries have restructured themselves to be driven by data. Entire sectors have emerged that are entirely driven by data; some of the most influential companies in the world (such as Google, Amazon or facebook) function only through the evaluation of user data. With most sectors completely restructuring themselves to become data-driven, we noticed that education is lagging far behind.
+In the last 10 years most highly developed industries have restructured themselves to be driven by data. The most influential companies in the world such as Google, Amazon or Facebook function only through the evaluation of user data. We noticed that education is lagging far behind.
 
 That is what we are going to change. By using all the pieces of information that are created over the course of a student's life and collecting data from across the nation centrally, we are able to enhance the way teachers understand their students and the way the schools are run, to ensure that all students learn in the best way for them individually.
 
