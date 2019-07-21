@@ -26,6 +26,7 @@ markdown: kramdown
 # theme: spectral_jekyll_theme
 plugins:
   - jekyll-feed
+  - jekyll-seo
 sass:
   style: compressed
 sass_dir: _sass

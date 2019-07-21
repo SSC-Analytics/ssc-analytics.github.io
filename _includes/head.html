@@ -1,12 +1,13 @@
 <head>
-	<!--TODO: Add logo in here-->
 	<title>{{ site.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
+	{% seo %}
+	<link rel="shortcut icon" type="image/png" href="favicon.png" />
+	<link rel="shortcut icon" type="image/xicon" href="{{ '/favicon.ico' | prepend: site.baseurl | prepend: site.url }}" />
 	<!--[if lte IE 8]><script src="{{ "/assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
-	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+	<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "/assets/css/ie8.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "/assets/css/ie9.css" | relative_url }}" /><![endif]-->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
