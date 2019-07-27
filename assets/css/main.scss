@@ -1804,7 +1804,7 @@
 	body.is-mobile {
 		#main {
 			> header {
-				background-attachment: fixed;
+                background-image: none;
 			}
 		}
 	}
