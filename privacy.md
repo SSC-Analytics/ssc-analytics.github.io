@@ -34,4 +34,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send an email to privacy@ssc-analytics.com.
+For any questions or concerns regarding the privacy policy, please send an email to [outreach@ssc-analytics.com](mailto:outreach@sscanalytics.com).
