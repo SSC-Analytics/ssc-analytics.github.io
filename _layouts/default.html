@@ -14,6 +14,24 @@
 {% include beta_section_three.html %}
 {% include cta.html %}
 {% include footer.html %}
-</body>
 
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#59b9b8",
+      "text": "#252f38"
+    },
+    "button": {
+      "background": "#252f38",
+      "text": "#59b9b8"
+    }
+  },
+  "theme": "edgeless"
+});
+</script>
+
+
+</body>
 </html>

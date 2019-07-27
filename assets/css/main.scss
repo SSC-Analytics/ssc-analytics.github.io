@@ -229,12 +229,12 @@
 		}
 
 		&.major {
-			margin: 0 0 (_size(element-margin) * 1.75) 0;
+			margin: 0 0 0 0;
 
 			h2, h3, h4, h5, h6 {
 				border-bottom: solid 2px _palette(border);
 				display: inline-block;
-				padding-bottom: 1em;
+				padding-bottom: 0.5em;
 				position: relative;
 
 				&:after {
@@ -1760,7 +1760,7 @@
 			background-size: cover;
 			text-align: center;
             img {
-                width: 10%;
+                width: 12em;
             }
 			h2 {
 				font-size: 1.75em;
