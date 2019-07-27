@@ -2,6 +2,7 @@
 layout: page
 title: Data Protection
 permalink: data-protection/
+image: dataprotection.svg
 ---
 
 <!-- We are not just promising complete student anonymity; we guarantee it using our 3-step process of data submission:

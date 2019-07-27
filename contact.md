@@ -3,6 +3,7 @@ image: Background.png
 layout: contact
 title: Contact
 permalink: contact/
+image: contact.svg
 ---
 
 ### Contact us
