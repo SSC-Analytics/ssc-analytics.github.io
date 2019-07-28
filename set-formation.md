@@ -2,6 +2,7 @@
 layout: page
 title: Set Formation
 permalink: set-formation/
+image: /setformation.svg
 ---
 
 ## What are we trying to do?

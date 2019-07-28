@@ -1754,13 +1754,13 @@
 		> header {
 			@include padding(6em, 0);
 			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/data_pattern.svg")'));
-			background-attachment: scroll;
-			background-position: center center;
+			background-attachment: fixed;
+            background-position-y: 20%;
 			background-repeat: no-repeat;
-			background-size: cover;
+			background-size: contain;
 			text-align: center;
             img {
-                width: 12em;
+                height: 10em;
             }
 			h2 {
 				font-size: 1.75em;

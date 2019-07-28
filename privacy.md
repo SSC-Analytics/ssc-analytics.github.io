@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Privacy Policy
 permalink: privacy/
+image: /privacypolicy.svg
 ---
 
 We take your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used. This policy does not include any information concerning our processes and policies concerning data stored for our analytics services, which are covered under different data processing and privacy policies.
