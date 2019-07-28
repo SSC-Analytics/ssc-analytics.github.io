@@ -7,26 +7,26 @@
 
 <!-- TODO: Redesign this style -->
 <html>
+
 {% include head.html %}
 
 <body>
+
     {% include header.html %}
 
     <!-- Main -->
     <article id="main">
-        <header{% if page.image %} style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}');"{% endif %}>
 
-	        <img class="title-image medium" src = "../assets/images/logo.png">
+        <header>
+            <img class="title-image medium" {% if page.image %} src = "{{ page.image | prepend: site.featured-image-source | absolute_url }}" {% else %} src = "{{ "" | absolute_url }}/assets/images/logo.png"{% endif %}>
+
             <h2>{{ page.title }}</h2>
-        </header>
-
-        <section class="wrapper style1 alt">
-        </section>
-            <!--<div class="inner">
             <p>{{ page.description }}</p>
-            </div> -->
+        </header>
+        <section class="wrapper alt style1">
 
-        <section class="wrapper style3">
+            </section>
+        <section class="wrapper style2">
             <div class="inner">
 
                 {{ content }}
@@ -34,7 +34,9 @@
             </div>
         </section>
     </article>
+    {% include cta.html %}
     {% include footer.html %}
+
 
 </body>
 
