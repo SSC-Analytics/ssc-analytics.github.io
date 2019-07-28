@@ -6,15 +6,15 @@ image: /setformation.svg
 order: 4
 ---
 
-## What are we trying to do?
+## The What
 
 We aim to create sets not by the marks students obtained, or at random, but instead in a way that lets every student succeed. 
 
-## How we are doing it:
+## The How 
 
 From the data you provide us we can find out which teachers a given student works well with. By grouping similar students together and having a teacher that they all work well with teach them, we ensure that every student thrives.
 
-## I'm happy with the way sets are formed now, why should I change?
+## The Why 
 
 There are a number of ways in which your school can benefit from using our set-formation tool:
 
