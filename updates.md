@@ -3,6 +3,7 @@ layout: page
 title: Blog
 permalink: updates/
 image: /blog.svg
+order: 7
 ---
 
 Here are the most recent updates about SSC, what we've been doing and what we hope to do soon:

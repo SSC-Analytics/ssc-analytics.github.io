@@ -3,11 +3,12 @@ layout: page
 title: Set Formation
 permalink: set-formation/
 image: /setformation.svg
+order: 4
 ---
 
 ## What are we trying to do?
 
-We aim to create sets not by the marks students obtained, or at random, but instead in a way that every student succeeds. 
+We aim to create sets not by the marks students obtained, or at random, but instead in a way that lets every student succeed. 
 
 ## How we are doing it:
 

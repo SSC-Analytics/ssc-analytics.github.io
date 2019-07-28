@@ -3,6 +3,7 @@ layout: page
 title: What We Do
 permalink: products/
 image: /whatwedo.svg
+order: 1
 ---
 
 ## Explore some of our most impactful features

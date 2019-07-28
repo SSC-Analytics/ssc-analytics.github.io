@@ -3,6 +3,7 @@ layout: page
 title: Guaranteed Results
 permalink: /guaranteed-results/
 image: /guaranteedresults.svg
+order: 5
 ---
 
 ### Free Access for a year

@@ -4,6 +4,7 @@ layout: contact
 title: Contact
 permalink: contact/
 image: contact.svg
+order: 3
 ---
 
 ### Contact us

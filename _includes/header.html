@@ -13,7 +13,8 @@
 							<li><a href="{{ '' | absolute_url }}/">Home</a><li>
 						<ul>
 						<ul>
-						  {% for page in site.pages %}
+                          {% assign sorted_pages = site.pages | sort:"order" %}
+						  {% for page in sorted_pages %}
 							{% if page.layout == "page" or page.layout == "contact" or page.layout == "contact" %}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 							{% endif %} {% endfor %}

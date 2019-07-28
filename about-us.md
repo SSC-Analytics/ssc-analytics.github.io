@@ -3,6 +3,7 @@ layout: page
 title: About Us
 permalink: /about-us/
 image: aboutus.svg
+order: 6
 ---
 
 ## The Business
