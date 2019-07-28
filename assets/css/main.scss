@@ -1880,11 +1880,11 @@
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/Background.png")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/brain.svg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
-			background-size: cover;
+			background-size: contain;
 			padding-top: 0;
 		}
 
@@ -1901,7 +1901,6 @@
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0))', 'url("../../assets/images/Background.png")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: auto;
