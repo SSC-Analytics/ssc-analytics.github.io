@@ -18,7 +18,7 @@
     <article id="main">
 
         <header>
-            <img class="title-image medium" {% if page.image %} src = "{{ page.image | prepend: site.featured-image-source | absolute_url }}" {% else %} src = "{{ "" | absolute_url }}/assets/images/logo.png"{% endif %}>
+            <img class="title-image medium" {% if page.image %} src = "{{ page.image | prepend: site.featured-image-source | absolute_url }}" {% else %} src = "{{ "" | absolute_url }}/assets/images/logo.svg"{% endif %}>
 
             <h2>{{ page.title }}</h2>
             <p>{{ page.description }}</p>
