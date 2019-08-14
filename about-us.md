@@ -9,9 +9,10 @@ order: 6
 ## The Business
 
 SSC Analytics is a young data analytics start-up based in Hammersmith, London. We founded the  company in early 2019 and have since been interviewing teachers and administrators to find out what features their schools would profit from the most.
+
 ## The Team
  
-SSC Analytics was founded by the three Imperial College London students Jonas Scholz, Andreas Swerdlow, and Tiger Cross, with the plan to fundamentaly change the way schools are run, and the role that data plays in the day-to-day of secondary education. 
+SSC Analytics was founded by the three Imperial College London students Jonas Scholz, Andreas Swerdlow, and Tiger Cross, with the plan to fundamentaly change  the role data plays in the day-to-day of secondary education. 
 
 ## The Plan
 
